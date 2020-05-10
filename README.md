@@ -1,2 +1,2 @@
 # Readers-Writers-Problem
-This includes gui.
+This includes gui using tkinter.
